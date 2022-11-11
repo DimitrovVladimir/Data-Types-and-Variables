@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\bin\Debug\net6.0\TheaThePhotographer.exe
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\bin\Debug\net6.0\TheaThePhotographer.deps.json
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\bin\Debug\net6.0\TheaThePhotographer.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\bin\Debug\net6.0\TheaThePhotographer.dll
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\bin\Debug\net6.0\TheaThePhotographer.pdb
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\TheaThePhotographer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\TheaThePhotographer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\TheaThePhotographer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\TheaThePhotographer.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\TheaThePhotographer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\TheaThePhotographer.dll
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\refint\TheaThePhotographer.dll
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\TheaThePhotographer.pdb
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\TheaThePhotographer.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\TheaThePhotographer\obj\Debug\net6.0\ref\TheaThePhotographer.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\bin\Debug\net6.0\IntegerToHexAndBinary.exe
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\bin\Debug\net6.0\IntegerToHexAndBinary.deps.json
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\bin\Debug\net6.0\IntegerToHexAndBinary.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\bin\Debug\net6.0\IntegerToHexAndBinary.dll
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\bin\Debug\net6.0\IntegerToHexAndBinary.pdb
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\IntegerToHexAndBinary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\IntegerToHexAndBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\IntegerToHexAndBinary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\IntegerToHexAndBinary.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\IntegerToHexAndBinary.dll
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\refint\IntegerToHexAndBinary.dll
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\IntegerToHexAndBinary.pdb
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\IntegerToHexAndBinary.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\IntegerToHexAndBinary\obj\Debug\net6.0\ref\IntegerToHexAndBinary.dll

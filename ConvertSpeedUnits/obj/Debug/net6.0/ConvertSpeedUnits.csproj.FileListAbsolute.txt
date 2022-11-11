@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\bin\Debug\net6.0\ConvertSpeedUnits.exe
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\bin\Debug\net6.0\ConvertSpeedUnits.deps.json
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\bin\Debug\net6.0\ConvertSpeedUnits.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\bin\Debug\net6.0\ConvertSpeedUnits.dll
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\bin\Debug\net6.0\ConvertSpeedUnits.pdb
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\ConvertSpeedUnits.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\ConvertSpeedUnits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\ConvertSpeedUnits.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\ConvertSpeedUnits.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\ConvertSpeedUnits.dll
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\refint\ConvertSpeedUnits.dll
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\ConvertSpeedUnits.pdb
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\ConvertSpeedUnits.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\ConvertSpeedUnits\obj\Debug\net6.0\ref\ConvertSpeedUnits.dll

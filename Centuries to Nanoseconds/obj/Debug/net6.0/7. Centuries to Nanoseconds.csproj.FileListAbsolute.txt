@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\bin\Debug\net6.0\7. Centuries to Nanoseconds.exe
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\bin\Debug\net6.0\7. Centuries to Nanoseconds.deps.json
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\bin\Debug\net6.0\7. Centuries to Nanoseconds.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\bin\Debug\net6.0\7. Centuries to Nanoseconds.dll
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\bin\Debug\net6.0\7. Centuries to Nanoseconds.pdb
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\7. Centuries to Nanoseconds.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\7. Centuries to Nanoseconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\7. Centuries to Nanoseconds.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\7. Centuries to Nanoseconds.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\7. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\7. Centuries to Nanoseconds.dll
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\refint\7. Centuries to Nanoseconds.dll
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\7. Centuries to Nanoseconds.pdb
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\7. Centuries to Nanoseconds.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Centuries to Nanoseconds\obj\Debug\net6.0\ref\7. Centuries to Nanoseconds.dll

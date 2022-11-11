@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\bin\Debug\net6.0\DifferentIntegersSize.exe
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\bin\Debug\net6.0\DifferentIntegersSize.deps.json
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\bin\Debug\net6.0\DifferentIntegersSize.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\bin\Debug\net6.0\DifferentIntegersSize.dll
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\bin\Debug\net6.0\DifferentIntegersSize.pdb
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\DifferentIntegersSize.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\DifferentIntegersSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\DifferentIntegersSize.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\DifferentIntegersSize.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\DifferentIntegersSize.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\DifferentIntegersSize.dll
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\refint\DifferentIntegersSize.dll
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\DifferentIntegersSize.pdb
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\DifferentIntegersSize.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\DifferentIntegersSize\obj\Debug\net6.0\ref\DifferentIntegersSize.dll
